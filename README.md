@@ -241,8 +241,8 @@ Demonstrates real-world applicability of research models
 #### Author:
 
 Anjali Singh Yadav
-B.Tech-AI & ML
-IIMT College of Engineering                                  
+**B.Tech-AI & ML**
+**IIMT College of Engineering**                                  
 IIT BHU Internship — Image Restoration
 
 #### Acknowledgement:
