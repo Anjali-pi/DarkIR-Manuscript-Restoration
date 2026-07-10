@@ -221,7 +221,7 @@ NumPy
 Matplotlib
 basicsr
 
-####Key Highlights
+#### Key Highlights
 Successfully reproduced DarkIR results
 Designed a multi-stage restoration pipeline
 Combined deep learning + image processing
