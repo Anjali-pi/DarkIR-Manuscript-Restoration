@@ -147,7 +147,7 @@ Since dataset was not originally low-light:
 
 
 
-# Proposed Pipeline
+## Proposed Pipeline
 Input Image (Dark) → DarkIR → CLAHE → Sharpening → Final Output
 
 Step 1: DarkIR
@@ -168,7 +168,7 @@ Formula:
 output = 1.5 × image − 0.5 × blurred
 
 
-# Implementation Steps
+## Implementation Steps
 
 1-Load pretrained DarkIR model
 
