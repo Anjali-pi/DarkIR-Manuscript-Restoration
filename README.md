@@ -239,8 +239,11 @@ Built pipeline relevant to document/image enhancement
 Demonstrates real-world applicability of research models
 
 #### Author:
+
 Anjali Singh Yadav
-B.Tech AI & ML
+
+B.Tech-AI & ML
+
 IIMT College of Engineering                                  
 
 IIT BHU Internship — Image Restoration
