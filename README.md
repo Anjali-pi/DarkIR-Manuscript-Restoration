@@ -1,4 +1,4 @@
-### DarkIR: Low-Light Image Restoration & Enhancement Pipeline
+#### DarkIR: Low-Light Image Restoration & Enhancement Pipeline
 
 ## IIT BHU Internship Project | CVPR 2025 Paper Implementation
 
