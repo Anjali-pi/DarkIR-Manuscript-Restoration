@@ -168,23 +168,38 @@ Formula:
 output = 1.5 × image − 0.5 × blurred
 
 
-#Implementation Steps
+# Implementation Steps
 
 1-Load pretrained DarkIR model
+
 2-Load dataset from Google Drive
+
 3-Apply artificial darkening
+
 4-Run DarkIR inference
+
 5-Apply CLAHE
+
 6-Apply sharpening
+
 7-Save outputs
+
 8-Generate visual comparisons
+
 9-Perform brightness analysis
+
 10-Results
+
 11-Stage-wise Output
+
 12-Stage	Description
+
 13-Input	Dark image
+
 14-DarkIR	Bright + denoised
+
 15-CLAHE	Contrast enhanced
+
 16-Final	Sharp + clear output
 
 #### Quantitative Analysis (20 Images)
