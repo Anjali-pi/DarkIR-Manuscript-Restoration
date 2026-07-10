@@ -168,7 +168,7 @@ Formula:
 output = 1.5 × image − 0.5 × blurred
 
 
-###Implementation Steps
+### Implementation Steps
 
 1-Load pretrained DarkIR model
 
