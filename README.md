@@ -187,7 +187,7 @@ output = 1.5 × image − 0.5 × blurred
 15-CLAHE	Contrast enhanced
 16-Final	Sharp + clear output
 
-# Quantitative Analysis (20 Images)
+#### Quantitative Analysis (20 Images)
   Image                  Dark Input   DarkIR   Pipeline    Gain
 ----------------------------------------------------------
   Img (1).jpg                  55.4    129.0      138.8   +83.4
@@ -213,7 +213,7 @@ output = 1.5 × image − 0.5 × blurred
 ==========================================================
   AVERAGE                      30.9     80.2      101.8   +71.0
 
-# T
+#### Tools
 Python
 PyTorch
 OpenCV
@@ -221,13 +221,13 @@ NumPy
 Matplotlib
 basicsr
 
-# Key Highlights
+####Key Highlights
 Successfully reproduced DarkIR results
 Designed a multi-stage restoration pipeline
 Combined deep learning + image processing
 Performed both qualitative & quantitative analysis
 
-# Limitations
+#### Limitations
 Dataset contains mixed images
 Some images include watermarks
 Synthetic darkening ≠ real low-light conditions
@@ -236,13 +236,13 @@ Applied DarkIR in image restoration domain
 Built pipeline relevant to document/image enhancement
 Demonstrates real-world applicability of research models
 
-# Author
+#### Author
 Anjali Singh Yadav
 B.Tech AI & ML
 IIMT College of Engineering
 IIT BHU Internship — Image Restoration
 
-# Acknowledgement
+#### Acknowledgement
 
 Based on DarkIR (CVPR 2025) by Feijoo et al.
 Official implementation and pretrained weights used.
