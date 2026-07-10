@@ -32,7 +32,7 @@ watermarks present in the original data.
 
 ## Project Structure
 
-```text
+
 DarkIR-LowLight-Image-Restoration/
 │
 ├── README.md
