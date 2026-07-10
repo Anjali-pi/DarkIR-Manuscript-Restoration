@@ -28,8 +28,6 @@ watermarks present in the original data.
 > Daniel Feijoo, Juan C. Benito, Alvaro Garcia, Marcos V. Conde  
 > *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025*  
 > GitHub: https://github.com/cidautai/DarkIR
-> ```python
-dark_img = np.power(img/255.0, 2.5) * 255
 
 ## Project Structure
 
@@ -137,10 +135,12 @@ to document-style images.
 - Some images contain **watermarks (original dataset issue)**  
 
 
-## Synthetic Low-Light Generation
+### Synthetic Low-Light Generation
 
-Since dataset was not originally low-light:
+We simulate low-light conditions using gamma transformation:
 
+python -
+dark_img = np.power(img / 255.0, 2.5) * 255
 - Applied **Gamma Transformation (γ ≈ 2.5–2.8)**
 - Reduced brightness
 - Added slight noise
